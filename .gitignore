@@ -1,0 +1,443 @@
+перейти к содержанию
+Search or jump to…
+Запрос на слияние с
+Проблемы
+Кодовые пространства
+Торговая площадка
+Исследовать
+ 
+@sokolovich1012 
+иксергей
+/
+gitignore
+Общественный
+разветвлен из github/gitignore
+Создайте свою собственную копию iksergey/gitignore
+Код
+Пулл-реквесты
+1
+Действия
+Проекты
+Безопасность
+Инсайты
+gitignore/VisualStudio.gitignore _
+@n0099
+n0099 [VisualStudio.gitignore] удалить завершающий пробел
+Последний коммит 491040e on Jan 26, 2022
+ История
+ 165 участников
+@shiftkey@arcresu@aroben@bbodenmiller@HassanHashemi@haacked@niik@AArnott@sayedihashimi@saschanaz@bdougie@OsirisTerje
+398 строк (319 слотов)  6,7 КБ
+
+# # Игнорировать временные файлы Visual Studio, результаты сборки и
+# # файлы, созданные популярными надстройками Visual Studio.
+# #
+# # Получить последнюю версию с https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# Пользовательские файлы
+* .rsuser
+* .суо
+* .пользователь
+* .userosscache
+* .sln.docstates
+
+# Пользовательские файлы (MonoDevelop/Xamarin Studio)
+* .userprefs
+
+# Моно автоматически сгенерированные файлы
+моно_краш. *
+
+# Результаты сборки
+[ дд ] ebug /
+[ Дд ] ebugPublic /
+[ Rr ] освободить /
+[ Rr ] освобождает /
+х64 /
+х86 /
+[ Ww ][ Ii ][ Nn ] 32 /
+[ Аа ][ Рр ][ Мм ]/
+[ Аа ][ Рр ][ Мм ] 64 /
+корп. /
+[ си- бемоль ] в /
+[ Оо ] Ъ /
+[ Ll ] ог /
+[ Ll ] огс /
+
+# Папка кэша/параметров Visual Studio 2015/2017
+.vs /
+# Раскомментируйте, если у вас есть задачи, которые создают статические файлы проекта в wwwroot
+# wwwрут/
+
+# Visual Studio 2017 автоматически сгенерированные файлы
+Генерируется \ Файлы /
+
+# Результаты теста MSTest
+[ Tt ] est [ Rr ] esult * /
+[ Bb ] уилд [ Ll ] ог. *
+
+# НУнит
+* .VisualState.xml
+TestResult.xml
+нунит- * .xml
+
+# Сборка результатов проекта ATL
+[ Дд ] ebugPS /
+[ Rr ] eleasePS /
+dlldata.c
+
+# Результаты тестов
+BenchmarkDotNet.Артефакты /
+
+# .NET ядро
+проект.lock.json
+проект.фрагмент.lock.json
+артефакты /
+
+# Скаффолдинг ASP.NET
+ЛесаReadMe.txt
+
+# СтильПолицейский
+Стайлкопрепорт.xml
+
+# Файлы, созданные Visual Studio
+* _i.c
+* _п.с
+* _ч.ч
+* .илк
+* .мета
+* .объект
+* .iobj
+* .pch
+* .pdb
+* .ipdb
+* .pgc
+* .пгд
+* .рсп
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* _wpftmp.csproj
+* .лог
+* .тлог
+* .vspscc
+* .vsscc
+.строит
+* .pidb
+* .svclog
+* .scc
+
+# Тестовые файлы наглости
+_Наглость *
+
+# Кэш-файлы Visual C++
+ипч /
+* .апс
+* .ncb
+* .opendb
+* .opensdf
+* .sdf
+* .кэш-файл
+* .VC.db
+* .VC.VC.opendb
+
+# Профайлер Visual Studio
+* .psess
+* .всп
+* .VSpx
+* .сап
+
+# Файлы трассировки Visual Studio
+* .e2e
+
+# Локальная рабочая область TFS 2012
+$ тс /
+
+# Инструментарий автоматизации навигации
+* .gpState
+
+# ReSharper — надстройка для кодирования .NET.
+_ReSharper * /
+* . [ Rr ] e [ Ss ] арфист
+* .DotSettings.пользователь
+
+# TeamCity — надстройка для сборки
+_TeamCity *
+
+# DotCover — это инструмент для покрытия кода
+* .dotCover
+
+# AxoCover — инструмент для покрытия кода
+.axoCover / *
+! .axoCover / settings.json
+
+# Coverlet — это бесплатный кроссплатформенный инструмент для покрытия кода.
+покрытие * .json
+покрытие * .xml
+покрытие * .info
+
+# Результаты покрытия кода Visual Studio
+* .покрытие
+* .coveragexml
+
+# NCrunch
+_NCrunch_ *
+. * хруст * .local.xml
+nCrunchTemp_ *
+
+# МогучийЛось
+* .мм. *
+АвтоТест.Нет /
+
+# Веб-верстак (sass)
+.sass-кэш /
+
+# Выходная папка Installshield
+[ Ээ ] Экспресс /
+
+# DocProject — надстройка для создания документации
+DocProject / сборкапомощь /
+DocProject / Справка / * .HxT
+DocProject / Справка / * .HxC
+DocProject / Справка / * . hhc
+DocProject / Помощь / * .hhk
+DocProject / Справка / * .hhp
+DocProject / Справка / Html2
+DocProject / Справка / html
+
+# Каталог с однократным щелчком
+опубликовать /
+
+# Публикация веб-вывода
+* . [ стр ] ublish.xml
+* .azurePubxml
+# Примечание: прокомментируйте следующую строку, если вы хотите проверить настройки веб-развертывания,
+# но строки подключения к базе данных (с потенциальными паролями) будут незашифрованными
+* .pubxml
+* .publishproj
+
+# Параметры публикации веб-приложения Microsoft Azure. Прокомментируйте следующую строку, если хотите
+# проверьте настройки публикации веб-приложения Azure, но содержит конфиденциальную информацию
+# в этих скриптах будет незашифрованным
+Публикации скриптов /
+
+# NuGet-пакеты
+* .nupkg
+# Пакеты символов NuGet
+* .snupkg
+# Папка пакетов может быть проигнорирована из-за восстановления пакетов
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+*.vbw
+
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+# Visual Studio 6 workspace and project file (working project files containing files to include in project)
+*.dsw
+*.dsp
+
+# Visual Studio 6 technical files
+*.ncb
+*.aps
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush personal settings
+.cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio History (VSHistory) files
+.vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows Installer files from build outputs
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# JetBrains Rider
+*.sln.iml
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
