@@ -1,10 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Введите число: ");
-int anyNumber = Convert.ToInt32(Console.ReadLine());
-anyNumberText = Convert.ToString(anyNumber);
-(любойNumberText.Length > 2){
-  Console.WriteLine("третья цифра -> " + anyNumberText[2]);
-}
-еще {
-  Console.WriteLine("-> первых цифр нет");
-}
+﻿int n = int.Parse(Console.ReadLine());
+int k = (int)Math.Log10(n)-2;
+Console.WriteLine(k < 0 ? "No such digit" : (n % (int)Math.Pow(10, k + 1) / (int)Math.Pow(10, k)).ToString());
+Console.ReadLine();
