@@ -1,0 +1,15 @@
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.csproj.AssemblyReference.cache
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.AssemblyInfoInputs.cache
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.AssemblyInfo.cs
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.csproj.CoreCompileInputs.cache
+C:\HomeWork\HomeWork\exesice19\bin\Debug\net6.0\exesice19.exe
+C:\HomeWork\HomeWork\exesice19\bin\Debug\net6.0\exesice19.deps.json
+C:\HomeWork\HomeWork\exesice19\bin\Debug\net6.0\exesice19.runtimeconfig.json
+C:\HomeWork\HomeWork\exesice19\bin\Debug\net6.0\exesice19.dll
+C:\HomeWork\HomeWork\exesice19\bin\Debug\net6.0\exesice19.pdb
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.dll
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\refint\exesice19.dll
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.pdb
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\exesice19.genruntimeconfig.cache
+C:\HomeWork\HomeWork\exesice19\obj\Debug\net6.0\ref\exesice19.dll
