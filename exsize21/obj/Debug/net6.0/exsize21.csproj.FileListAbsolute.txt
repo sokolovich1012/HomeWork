@@ -1,0 +1,15 @@
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.csproj.AssemblyReference.cache
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.AssemblyInfoInputs.cache
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.AssemblyInfo.cs
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.csproj.CoreCompileInputs.cache
+C:\HomeWork\HomeWork\exsize21\bin\Debug\net6.0\exsize21.exe
+C:\HomeWork\HomeWork\exsize21\bin\Debug\net6.0\exsize21.deps.json
+C:\HomeWork\HomeWork\exsize21\bin\Debug\net6.0\exsize21.runtimeconfig.json
+C:\HomeWork\HomeWork\exsize21\bin\Debug\net6.0\exsize21.dll
+C:\HomeWork\HomeWork\exsize21\bin\Debug\net6.0\exsize21.pdb
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.dll
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\refint\exsize21.dll
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.pdb
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\exsize21.genruntimeconfig.cache
+C:\HomeWork\HomeWork\exsize21\obj\Debug\net6.0\ref\exsize21.dll
