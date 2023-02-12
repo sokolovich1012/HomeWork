@@ -40,6 +40,8 @@ namespace ConsoleApplication1
                     r=max - min ;
                 }
             }
+            Console.WriteLine(".");
+            Console.Write("max~min:");
             Console.WriteLine(r);
             Console.ReadKey();
         }
