@@ -1,7 +1,4 @@
-﻿using System;
- 
- 
-namespace ConsoleApp37
+﻿namespace ConsoleApp37
 {
     class Program
     {
