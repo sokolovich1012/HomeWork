@@ -1,19 +1,22 @@
-﻿double[,] myArrey=new double[3,4];
-Random random = new Random();
-
+﻿int [,] myArrey=
+{
+    {1,2,3,4},
+    {5,6,7,8}
+};
+Console.WriteLine("enter you index: ");
+int ind = int.Parse (Console.ReadLine());
 for (int i = 0; i < myArrey.GetLength(0); i++)
 {
     for (int j = 0; j < myArrey.GetLength(1); j++)
     {
-      myArrey[i,j]= random.Next(-10,10) + random.NextDouble();  
-    }
-}
-
-for (int y = 0; y < myArrey.GetLength(0); y++)
-{
-    for (int x = 0; x < myArrey.GetLength(1); x++)
-    {
-        Console.Write(myArrey[y,x] + " ");
+        if(myArrey[i,j]== ind)
+        {
+            Console.Write(i);
+        }
+        else
+        {
+            Console.Write("There is no element at that index.");
+        }
     }
     Console.WriteLine();
 }
