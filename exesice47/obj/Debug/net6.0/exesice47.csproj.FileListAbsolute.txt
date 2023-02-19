@@ -1,0 +1,15 @@
+C:\HomeWork\HomeWork\exesice47\bin\Debug\net6.0\exesice47.exe
+C:\HomeWork\HomeWork\exesice47\bin\Debug\net6.0\exesice47.deps.json
+C:\HomeWork\HomeWork\exesice47\bin\Debug\net6.0\exesice47.runtimeconfig.json
+C:\HomeWork\HomeWork\exesice47\bin\Debug\net6.0\exesice47.dll
+C:\HomeWork\HomeWork\exesice47\bin\Debug\net6.0\exesice47.pdb
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.csproj.AssemblyReference.cache
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.AssemblyInfoInputs.cache
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.AssemblyInfo.cs
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.csproj.CoreCompileInputs.cache
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.dll
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\refint\exesice47.dll
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.pdb
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\exesice47.genruntimeconfig.cache
+C:\HomeWork\HomeWork\exesice47\obj\Debug\net6.0\ref\exesice47.dll
