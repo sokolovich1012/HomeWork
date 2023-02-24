@@ -1,0 +1,15 @@
+C:\HomeWork\HomeWork\exesice66\bin\Debug\net6.0\exesice66.exe
+C:\HomeWork\HomeWork\exesice66\bin\Debug\net6.0\exesice66.deps.json
+C:\HomeWork\HomeWork\exesice66\bin\Debug\net6.0\exesice66.runtimeconfig.json
+C:\HomeWork\HomeWork\exesice66\bin\Debug\net6.0\exesice66.dll
+C:\HomeWork\HomeWork\exesice66\bin\Debug\net6.0\exesice66.pdb
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.csproj.AssemblyReference.cache
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.AssemblyInfoInputs.cache
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.AssemblyInfo.cs
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.csproj.CoreCompileInputs.cache
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.dll
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\refint\exesice66.dll
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.pdb
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\exesice66.genruntimeconfig.cache
+C:\HomeWork\HomeWork\exesice66\obj\Debug\net6.0\ref\exesice66.dll
